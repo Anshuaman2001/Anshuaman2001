@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://source.unsplash.com/900x218/?coding" align="center"/>
 </div> 
-<h1 align="center" style="font-family: 'Futura', sans-serif;">Hello🙋‍♂️, I am Satendra Singh</h1>
+<h1 align="center" style="font-family: 'Futura', sans-serif;">Hello🙋‍♂️, I am Kumar Anshuman</h1>
 <h3 align="center">A passionate Web Developer and Competitive Programmer.</h3>
 
 
@@ -15,7 +15,7 @@
 
 - 💬 I'm comfortable discussing topics related to **JavaScript, ReactJS, DSA and C++**
 
-- 📫 If you'd like to get in touch, here's my email: **ssatendra790@gmail.com**
+- 📫 If you'd like to get in touch, here's my email: **kranshu351@gmail.com**
 
 - 📄  I'm available to discuss my experiences and I'm attaching my resume for your reference👉 [Click Here](https://drive.google.com/file/d/12QvofFsP9U9By1XLvqW7SMzAH1BQineQ/view?usp=sharing)
 

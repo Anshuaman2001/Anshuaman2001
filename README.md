@@ -17,21 +17,19 @@
 
 - 📫 If you'd like to get in touch, here's my email: **kranshu351@gmail.com**
 
-- 📄  I'm available to discuss my experiences and I'm attaching my resume for your reference👉 [Click Here](https://drive.google.com/file/d/12QvofFsP9U9By1XLvqW7SMzAH1BQineQ/view?usp=sharing)
+- 📄  I'm available to discuss my experiences and I'm attaching my resume for your reference👉 [Click Here](https://kranshu351.hackerresume.io/7c660718-5989-4239-ac0b-67d963fbaf80)
 
 - ⚡ Fun fact **I think I can code😁!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ssatendra790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ssatendra790" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/satendrasinghgaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satendrasinghgaur/" height="30" width="40" /></a>
-<a href="https://instagram.com/stndr.unsigned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stndr.unsigned" height="30" width="40" /></a>
-<a href="https://medium.com/ssatendra790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ssatendra790" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nlog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nlog" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ssatendra790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ssatendra790" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/stndrogue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stndrogue" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/stndrogue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stndrogue" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ssatendra790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ssatendra790" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-anshuman-50b5a1256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B17Kd0PIRQIG%2BrwyLhbMLbw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar-anshuman-50b5a1256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B17Kd0PIRQIG%2BrwyLhbMLbw%3D%3D" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mr_mvp351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nlog" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kranshu351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Anshuman-3000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
